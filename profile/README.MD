@@ -14,9 +14,9 @@ Cismu es un reproductor de música de código abierto diseñado para brindarte l
 
 - **Futuro Prometedor:** Estamos trabajando arduamente para llevar Cismu a todas partes. Muy pronto, lanzaremos versiones móviles para Android, iOS, HarmonyOS, ChromeOS y más, para que puedas llevar tu música contigo a donde quiera que vayas.
 
-## Otros Repositorios Relacionados
+## Repositorios
 
-Además de Cismu, tenemos otros repositorios emocionantes:
+Tenemos repositorios emocionantes:
 
 - **Teoría Musical**: Próximamente, lanzaremos una página web de código abierto hosteada en GitHub Pages. En este repositorio, explicaremos la teoría musical y el mundo del sonido digital. Abordaremos temas como codificaciones, formatos de audio y cómo se crea la visualización de audio, una de las características únicas de este reproductor de música. ¡Aprender y divertirse están garantizados!
 
