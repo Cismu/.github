@@ -1,33 +1,55 @@
-# Bienvenido a Cismu - Reproductor de Música de Código Abierto
+# Cismu
 
-¡Hola y bienvenido al repositorio oficial de Cismu!
+¡Bienvenido al proyecto **Cismu**!  
+El reproductor de música libre y de código abierto de nuestra organización.
 
-Cismu es un reproductor de música de código abierto diseñado para brindarte la mejor experiencia musical posible. Nuestro objetivo es combinar comodidad y personalización para que disfrutes al máximo de tu música.
+---
 
-## Características Destacadas
+## 🎵 ¿Qué es Cismu?
 
-- **Comodidad del Usuario:** Cismu se esfuerza por ser extremadamente fácil de usar, para que puedas disfrutar de tu música sin complicaciones.
+Cismu es un reproductor de música diseñado para que cualquiera, sin importar su experiencia técnica, pueda:
 
-- **Personalización Ilimitada:** ¿Quieres que tu reproductor de música sea único? Con Cismu, puedes personalizarlo a tu gusto. Usa plugins y CSS personalizado para darle tu toque personal.
+- **Disfrutar de su música** con una interfaz clara y sencilla.  
+- **Personalizar su estilo** cambiando temas y colores.  
+- **Reproducir archivos locales** y conectarse a servicios en la nube.  
+- **Ver visualizaciones en tiempo real** que acompañan tus canciones.
 
-- **Fuente de Audio Flexible:** ¿Tienes tu música en tu dispositivo o en la nube? Cismu te permite elegir de dónde quieres escuchar, ¡siempre respetando tus responsabilidades de uso de contenido en la nube!
+---
 
-- **Futuro Prometedor:** Estamos trabajando arduamente para llevar Cismu a todas partes. Muy pronto, lanzaremos versiones móviles para Android, iOS, HarmonyOS, ChromeOS y más, para que puedas llevar tu música contigo a donde quiera que vayas.
+## 🌟 Ventajas clave
 
-## Repositorios
+- **Fácil de usar**: Todo al alcance de un clic, sin menús complicados.  
+- **Flexible**: Adapta apariencia y comportamiento a tu gusto.  
+- **Abierto y colaborativo**: Creado con transparencia, invitándote a mejorar y compartir.  
+- **Multiplataforma**: Funciona en Windows, macOS y Linux (muy pronto en móviles).
 
-Tenemos repositorios emocionantes:
+---
 
-- **Teoría Musical**: Próximamente, lanzaremos una página web de código abierto hosteada en GitHub Pages. En este repositorio, explicaremos la teoría musical y el mundo del sonido digital. Abordaremos temas como codificaciones, formatos de audio y cómo se crea la visualización de audio, una de las características únicas de este reproductor de música. ¡Aprender y divertirse están garantizados!
+## 🚀 Primeros pasos
 
-- **Cismu-Desktop**: En este repositorio, encontrarás el código fuente de la versión de escritorio de Cismu. Está escrito en Electron.js, TypeScript y React. Si no eres fanático de la web, no te preocupes, también hay algo de C++ para extender las características de Electron. ¡Explora y contribuye a nuestra emocionante aventura de desarrollo!
+1. **Descarga** la versión más reciente desde [Releases](https://github.com/Cismu/Cismu/releases).  
+2. **Instala** el programa con el instalador correspondiente a tu sistema.  
+3. **Añade tu música** y ¡comienza a disfrutar al instante!
 
-## Respeto por los Derechos de Autor
+> Para guías detalladas y documentación técnica, consulta la carpeta [`/docs`](./docs).
 
-En Cismu, nos tomamos en serio el respeto por los derechos de autor. Te recordamos que debes reproducir música para la cual tengas los permisos adecuados. Contribuye a un uso responsable de la música.
+---
 
-## Licencia
+## 🤝 Contribuye con nosotros
 
-Este proyecto se distribuye bajo la licencia GPL v3.0 o versiones posteriores. Siéntete libre de explorar y contribuir a nuestro proyecto.
+Tu participación es fundamental. Puedes:
 
-¡Gracias por unirte a nosotros en esta emocionante aventura musical con Cismu! Siéntete libre de explorar el código fuente, contribuir y disfrutar de la música con nosotros.
+- **Reportar ideas o problemas** en [Issues](https://github.com/Cismu/Cismu/issues).  
+- **Proponer mejoras de diseño** o funciones nuevas.  
+- **Unirte a la comunidad** en nuestras discusiones y eventos.
+
+---
+
+## ⚖️ Licencia
+
+Cismu se distribuye bajo la **GNU Affero General Public License v3.0** (AGPL-3.0-or-later).  
+Consulta el archivo [`LICENSE`](./LICENSE) para más detalles.
+
+---
+
+¡Gracias por formar parte de la comunidad Cismu!  
